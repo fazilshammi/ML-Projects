@@ -1,5 +1,5 @@
 # Project : [Churn Prediction Model](https://github.com/fazilshammi/ML-Projects/blob/main/Churn%20Prediction%20Model.ipynb)
-The data I usedfor thhis project is telecom churn dataset
+The data I used for this project is telecom churn dataset 
 The dataset is in [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn?resource=download)
 
 ## Objectives of this project
